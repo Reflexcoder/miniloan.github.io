@@ -1,5 +1,7 @@
 # Project-demon (live on) -  https://loan-app-glkk.onrender.com/
 
+https://github.com/Kashifraza1208/movie-app/assets/60813449/d3726b91-dab0-4cf9-bb9c-9de0848c2727
+
 # mini-loan-app-mernStack
 
 Creating a mini loan app with MERN stack and implementing features like JWT authentication, user roles, Redux for state management, Reactstrap for styling, and admin functionalities is a valuable experience to showcase on your resume.
