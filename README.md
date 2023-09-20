@@ -1,4 +1,4 @@
-# Project-demon (live on) -  https://loan-app-glkk.onrender.com/
+# Project-demo (live on) -  https://loan-app-glkk.onrender.com/
 
 https://github.com/Kashifraza1208/movie-app/assets/60813449/d3726b91-dab0-4cf9-bb9c-9de0848c2727
 
